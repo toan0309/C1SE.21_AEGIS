@@ -1,0 +1,18 @@
+$primary-text: #111827;
+$sub-text: #6B7280;
+
+.header {
+  margin-bottom: 20px;
+
+  .logo {
+    font-size: 32px;
+    font-weight: bold;
+    color: $primary-text;
+  }
+
+  .headerSub {
+    font-size: 15px;
+    color: $sub-text;
+    margin-top: 5px;
+  }
+}
